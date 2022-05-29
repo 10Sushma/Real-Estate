@@ -1,0 +1,70 @@
+body{
+    background-color:#F5F5F5; 
+    margin: 0;  
+    padding: 0;
+}
+.sign-up-form{  
+   position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+border-radius: 10px;
+} 
+.mail{
+    box-sizing: border-box;
+
+position: absolute;
+height: 54px;
+left: 495px;
+right: 495px;
+top: 431px;
+
+/* Colors/Neutral/White */
+
+background: #FFFFFF;
+border: 1px solid #E2E2E2;
+}
+.password{
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 54px;
+    left: 495px;
+    right: 495px;
+    top: 510px;
+    
+    /* Colors/Neutral/White */
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+}
+.pass{
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 54px;
+    left: 495px;
+    right: 495px;
+    top: 510px;
+    
+    /* Colors/Neutral/White */
+    
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+    border-radius: 5px;
+
+}
+.btn{
+    position: absolute;
+left: 34.38%;
+right: 34.38%;
+top: 65.23%;
+bottom: 29.49%;
+
+background: #4C57B6;
+border-radius: 5px;
+}
